@@ -1,0 +1,19 @@
+**Now this is ONLY if for some reason you don't want to use the already patched ROM that is included.**
+
+Make sure the original ROM is in it's unzipped .SMC format, Make sure the .IPS patch is unzipped as well, They must both have THE EXACT SAME NAME.
+
+For example, they must both be:
+
+Super Bomberman 4.smc
+
+and
+
+Super Bomberman 4.ips
+
+Or if you want to name it something stupid or whatever just make sure that they're both stupid. Now, the tricky part, is patching it with an IPS patcher. I use a program called SNESTool. Sadly I cannot find it on the internet anymore so if you can't find that one yourself then find a different one. You can find plenty at Zophars Domain (google it). It will ask you to select the file to be patched, and then select the patch to use. Easy stuff.
+
+Many props to Svambo for translating this! e-Mail him and tell him he rules!
+
+Svambo@freenet.de
+
+Enjoy! - ThrashOmen
